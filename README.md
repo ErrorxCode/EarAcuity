@@ -1,4 +1,5 @@
-<p align="center"><img alt="Audiometry simulator app" height="300" src="/logo.png"></p>
+<p align="center"><img alt="Audiometry simulator app" height="300" src="https://th.bing.com/th/id/OIG4.Lx7YXzou28lDvDq4M6y3?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn"></p>
+
 <p align="center">
   <img src="https://img.shields.io/github/license/ErrorxCode/EarAcuity?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/ErrorxCode/EarAcuity?style=for-the-badge">
