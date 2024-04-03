@@ -1,2 +1,56 @@
-# EarAcuity
-An app by which you can test your hearing capacity &amp; perform audiometry test. Now check your ears through your smartphone, without going to the clinic 
+<p align="center"><img alt="Audiometry simulator app" height="300" src="/logo.png"></p>
+<p align="center">
+  <img src="https://img.shields.io/github/license/ErrorxCode/EarAcuity?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/ErrorxCode/EarAcuity?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/ErrorxCode/EarAcuity?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/ErrorxCode/EarAcuity?color=teal&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Rahil--Khan-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Java-cyan?style=flat-square">
+</p>
+
+#####  An app by which you can test your hearing capacity and understand the human audible spectrum. You can get a rough estimate of how your ears are performing with your age Without going to the clinic however, this cannot be used as an alternative to ordinary medical tests. If you find your ear unhealthy, you should go for a proper medical test.
+
+
+## Features
+
+-   Clean UI
+-   Audiometry test simulation
+-   Different audible spectrum sounds
+-   Can be used to explain the human audible spectrum
+-   Can be used to check hearing capacity
+-   Result with score, grade and a tip
+
+
+## Download
+You can download the latest version of the app by clicking the below button. You can check the release section for previous versions.
+
+<a href="https://github.com/ErrorxCode/EarAcuity/releases/download/v1.0/EarAcuity.v1.0.apk"><img alt="Download" height=40 src="https://dabuttonfactory.com/button.png?t=Download now&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
+
+
+##  🎀 Contribution 
+Contributions,🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+That's the only reason why I made this app open-source. Your contribution can make it better to build a great community. Please go ahead [Code of conduct](/CODE_OF_CONDUCT.md)
+
+What you can do is you can replace the hard-coded audio with the dynamically generated tone with more frequencies and custom audio parameters.
+
+You can show the last test result on the home screen.
+
+
+## 🤝 Support
+💙 If you like my projects, Give them ⭐ and Share them with friends. You can also follow the developers for more such amazing contributions.
+
+#### Made with ❤️ in India
+
+<h1 align='left'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+![water](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
