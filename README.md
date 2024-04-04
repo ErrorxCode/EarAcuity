@@ -29,7 +29,7 @@
 ## Download
 You can download the latest version of the app by clicking the below button. You can check the release section for previous versions.
 
-<a href="https://github.com/ErrorxCode/EarAcuity/releases/download/v1.0/EarAcuity.v1.0.apk"><img alt="Download" height=40 src="https://dabuttonfactory.com/button.png?t=Download now&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
+<a href="https://github.com/ErrorxCode/EarAcuity/releases/download/v2.0/EarAcuity-v2.0.apk"><img alt="Download" height=40 src="https://dabuttonfactory.com/button.png?t=Download now&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
 
 
 ##  🎀 Contribution 
