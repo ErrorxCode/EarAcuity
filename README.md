@@ -8,10 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Rahil--Khan-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Java-cyan?style=flat-square">
-</p>
+  <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-1dc400?style=flat-square&logo=android&logoColor=white"></a>
+  <a href="#"><img alt="Languages-Java" src="https://img.shields.io/badge/Language-Java-1DA1F2?style=flat-square&logo=java"></a>
+  <a href="#"><img alt="Bot" src="https://img.shields.io/badge/Version-v2-orange"></a>
+  <a href="#"><img alt="Downloads" src="https://img.shields.io/github/downloads/ErrorxCode/EarAcuity/total.svg"></a>
+  </p>
 
 #####  An app by which you can test your hearing capacity and understand the human audible spectrum. You can get a rough estimate of how your ears are performing with your age Without going to the clinic however, this cannot be used as an alternative to ordinary medical tests. If you find your ear unhealthy, you should go for a proper medical test.
 
